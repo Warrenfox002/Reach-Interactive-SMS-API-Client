@@ -62,7 +62,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ```bash
 # Clone the repository
-git clone https://github.com/warre/reach-interactive-sms-api.git
+git clone https://github.com/warrenfox002/reach-interactive-sms-api.git
 
 # Install dependencies
 composer install
