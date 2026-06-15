@@ -1,9 +1,9 @@
 # Reach Interactive SMS API PHP Client
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/warre/reach-interactive-sms-api.svg?style=flat-square)](https://packagist.org/packages/warre/reach-interactive-sms-api)
-[![Total Downloads](https://img.shields.io/packagist/dt/warre/reach-interactive-sms-api.svg?style=flat-square)](https://packagist.org/packages/warre/reach-interactive-sms-api)
+[![Latest Stable Version](https://img.shields.io/packagist/v/WarrenFox002/reach-interactive-sms-api.svg?style=flat-square)](https://packagist.org/packages/WarrenFox002/reach-interactive-sms-api)
+[![Total Downloads](https://img.shields.io/packagist/dt/WarrenFox002/reach-interactive-sms-api.svg?style=flat-square)](https://packagist.org/packages/WarrenFox002/reach-interactive-sms-api)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.0-8892BF.svg?style=flat-square)](https://packagist.org/packages/warre/reach-interactive-sms-api)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.0-8892BF.svg?style=flat-square)](https://packagist.org/packages/WarrenFox002/reach-interactive-sms-api)
 
 A comprehensive and easy-to-use PHP client library for the [Reach Interactive SMS API](https://www.reach-interactive.com/sms-api/api). Send SMS messages, check account balance, manage scheduled messages, and handle errors with typed exceptions.
 
@@ -27,7 +27,7 @@ A comprehensive and easy-to-use PHP client library for the [Reach Interactive SM
 Install via Composer:
 
 ```bash
-composer require warre/reach-interactive-sms-api
+composer require WarrenFox002/reach-interactive-sms-api
 ```
 
 ## Quick Start
@@ -356,7 +356,7 @@ This library is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 - **API Documentation:** https://www.reach-interactive.com/sms-api/api
 - **Email:** sales@reach-data.com
-- **Issues:** [GitHub Issues](https://github.com/warre/reach-interactive-sms-api/issues)
+- **Issues:** [GitHub Issues](https://github.com/WarrenFox002/reach-interactive-sms-api/issues)
 
 ## Contributing
 
