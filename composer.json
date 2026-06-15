@@ -1,5 +1,5 @@
 {
-    "name": "warre/reach-interactive-sms-api",
+    "name": "Warrenfox002/reach-interactive-sms-api",
     "description": "A comprehensive PHP client library for the Reach Interactive SMS API",
     "keywords": ["sms", "reach-interactive", "api", "php", "messaging"],
     "license": "MIT",
