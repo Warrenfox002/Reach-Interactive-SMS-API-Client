@@ -1,18 +1,18 @@
 {
     "name": "warrenfox002/reach-interactive-sms-api",
-    "description": "A comprehensive PHP client library for the Reach Interactive SMS API",
+    "description": "Reach Interactive SMS API - PHP client library",
     "keywords": ["sms", "reach-interactive", "api", "php", "messaging"],
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com",
+            "name": "Warren FOx",
+            "email": "warrenfox002@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.4",
         "ext-curl": "*",
         "ext-json": "*"
     },
