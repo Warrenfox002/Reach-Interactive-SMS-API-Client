@@ -5,7 +5,7 @@
 Install the package via Composer:
 
 ```bash
-composer require warre/reach-interactive-sms-api
+composer require warrenfox002/reach-interactive-sms-api
 ```
 
 ## Basic Setup
@@ -184,7 +184,7 @@ Full documentation is available in [README.md](README.md)
 ## Support
 
 - **API Documentation:** https://www.reach-interactive.com/sms-api/api
-- **Issues:** https://github.com/warre/reach-interactive-sms-api/issues
+- **Issues:** https://github.com/warrenfox002/reach-interactive-sms-api/issues
 - **Email:** sales@reach-data.com
 
 ## Next Steps
