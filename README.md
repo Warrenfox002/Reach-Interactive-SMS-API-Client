@@ -27,7 +27,7 @@ A comprehensive and easy-to-use PHP client library for the [Reach Interactive SM
 Install via Composer:
 
 ```bash
-composer require warrenFox002/reach-interactive-sms-api
+composer require warrenfox002/reach-interactive-sms-api
 ```
 
 ## Quick Start
